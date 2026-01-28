@@ -1,5 +1,5 @@
 # Aplicación para Registro de Pedidos 
-  - App de escritorio para el registro de pedidos de paquetes ofimáticos a contratar.
+  - App de escritorio para el registro de pedidos de paquetes ofimáticos que desee contratar.
 
     Se tiene opciones de:
     - Registro del pedido.
